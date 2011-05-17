@@ -1,0 +1,25 @@
+#index td,a{font-family:arial,sans-serif;}
+#logo {margin:4px;}
+form {margin: 18px 0;}
+body {font-family:verdana;}
+/* input {font-size: 130%;} */
+#searchbox {margin: 150px 0;}
+
+#search {margin: 0 60px; }
+b {color:red;}
+div,td {color:#000}
+a:link {color:#00c}
+a:visited {color:#551a8b}
+a:active {color:red;}
+#logo {margin:4px;}
+.linkurl {color:green;}
+.red {color:red}
+dl {margin: 18px 0;}
+dd {margin: 10px 0;}
+dd li {margin: 3px -20px;}
+#total_data_num {display:block; text-align:right; background-color: #ccc;}
+#total_data_num span {color: red;}
+.pagenav {font-size:1em; margin:0.5em;}
+.pagenav span a, .pagenav a:visited a:link a:active a:hover {margin: 0 0.5em; color:blue; font-size:80%;}
+.pagenav strong {font-weight:bold;color:#a90a0b;}
+.pagenav .pagelink {font-weight:bold; font-size:90%; margin: 0 0.7em;}
